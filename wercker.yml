@@ -27,5 +27,4 @@ deploy:
         tag: latest
         repository: abhisalvi/hello-world
         registry: https://registry.hub.docker.com
-        entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
-        
+        entrypoint: "/pipeline/source/app/docker_entrypoint.sh"       
